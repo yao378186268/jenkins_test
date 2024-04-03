@@ -2,8 +2,6 @@
   <div class="home">
     <el-button @click="testFn">按钮1</el-button>
     <el-button @click="testFn2">按钮2</el-button>
-    <el-button @click="testFn2">按钮3</el-button>
-    <el-button @click="testFn2">按钮4</el-button>
   </div>
 </template>
 
